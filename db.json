@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "name": "Ny",
+      "details": "Hi ngu",
+      "gender": "female",
+      "rating": 1,
+      "id": 1
+    },
+    {
+      "name": "Ngoc Ny",
+      "details": "New Rork",
+      "gender": "male",
+      "rating": "3",
+      "id": 2
+    },
+    {
+      "name": "Chan",
+      "details": "Hoi An town",
+      "gender": "male",
+      "rating": "4",
+      "id": 3
+    },
+    {
+      "name": "Hoang Ny",
+      "details": "She is from UK",
+      "gender": "Female",
+      "rating": "3",
+      "id": 16
+    },
+    {
+      "name": "Ny",
+      "details": "23123123",
+      "gender": "female",
+      "rating": "3",
+      "id": 17
+    },
+    {
+      "name": "Ny",
+      "details": "23123123",
+      "gender": "female",
+      "rating": "3",
+      "id": 18
+    }
+  ]
+}
